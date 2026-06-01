@@ -1,4 +1,4 @@
-# Excel Files
+# Excel File
 
 This folder contains the Excel workbook used for the Retail Sales Analysis project.
 
